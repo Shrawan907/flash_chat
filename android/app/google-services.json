@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218344494466",
+    "firebase_url": "https://flush-chat-d31f7.firebaseio.com",
+    "project_id": "flush-chat-d31f7",
+    "storage_bucket": "flush-chat-d31f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218344494466:android:b9feae71892fb25e3aeb9b",
+        "android_client_info": {
+          "package_name": "co.shrawan98.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218344494466-ld303kkvbh4q55446sm6mp8cs9fv0ol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBonMh6D770HNWitOme_Zeo4wdZ3j-JO7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218344494466-ld303kkvbh4q55446sm6mp8cs9fv0ol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
