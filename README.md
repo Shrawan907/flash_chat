@@ -17,6 +17,6 @@
 
 **Images**
 
-![1](/readme_images/1.jpeg)    |    ![1](/readme_images/2.jpeg)    |    ![1](/readme_images/3.jpeg)    |    ![1](/readme_images/4.jpeg)    
+![1](/readme_images/1.jpeg)    ![1](/readme_images/2.jpeg)    ![1](/readme_images/3.jpeg)    ![1](/readme_images/4.jpeg)    
 
 
